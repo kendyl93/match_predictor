@@ -1,0 +1,381 @@
+home_team,away_team,date,score_home,score_away,winner
+Man United,Fulham,2024-08-16 19:00:00,1,0,1
+Ipswich Town,Liverpool,2024-08-17 11:30:00,0,2,2
+Arsenal,Wolverhampton,2024-08-17 14:00:00,2,0,1
+Everton,Brighton Hove,2024-08-17 14:00:00,0,3,2
+Newcastle,Southampton,2024-08-17 14:00:00,1,0,1
+Nottingham,Bournemouth,2024-08-17 14:00:00,1,1,0
+West Ham,Aston Villa,2024-08-17 16:30:00,1,2,2
+Brentford,Crystal Palace,2024-08-18 13:00:00,2,1,1
+Chelsea,Man City,2024-08-18 15:30:00,0,2,2
+Leicester City,Tottenham,2024-08-19 19:00:00,1,1,0
+Brighton Hove,Man United,2024-08-24 11:30:00,2,1,1
+Crystal Palace,West Ham,2024-08-24 14:00:00,0,2,2
+Fulham,Leicester City,2024-08-24 14:00:00,2,1,1
+Man City,Ipswich Town,2024-08-24 14:00:00,4,1,1
+Southampton,Nottingham,2024-08-24 14:00:00,0,1,2
+Tottenham,Everton,2024-08-24 14:00:00,4,0,1
+Aston Villa,Arsenal,2024-08-24 16:30:00,0,2,2
+Bournemouth,Newcastle,2024-08-25 13:00:00,1,1,0
+Wolverhampton,Chelsea,2024-08-25 13:00:00,2,6,2
+Liverpool,Brentford,2024-08-25 15:30:00,2,0,1
+Arsenal,Brighton Hove,2024-08-31 11:30:00,1,1,0
+Brentford,Southampton,2024-08-31 14:00:00,3,1,1
+Everton,Bournemouth,2024-08-31 14:00:00,2,3,2
+Ipswich Town,Fulham,2024-08-31 14:00:00,1,1,0
+Leicester City,Aston Villa,2024-08-31 14:00:00,1,2,2
+Nottingham,Wolverhampton,2024-08-31 14:00:00,1,1,0
+West Ham,Man City,2024-08-31 16:30:00,1,3,2
+Chelsea,Crystal Palace,2024-09-01 12:30:00,1,1,0
+Newcastle,Tottenham,2024-09-01 12:30:00,2,1,1
+Man United,Liverpool,2024-09-01 15:00:00,0,3,2
+Southampton,Man United,2024-09-14 11:30:00,0,3,2
+Brighton Hove,Ipswich Town,2024-09-14 14:00:00,0,0,0
+Crystal Palace,Leicester City,2024-09-14 14:00:00,2,2,0
+Fulham,West Ham,2024-09-14 14:00:00,1,1,0
+Liverpool,Nottingham,2024-09-14 14:00:00,0,1,2
+Man City,Brentford,2024-09-14 14:00:00,2,1,1
+Aston Villa,Everton,2024-09-14 16:30:00,3,2,1
+Bournemouth,Chelsea,2024-09-14 19:00:00,0,1,2
+Tottenham,Arsenal,2024-09-15 13:00:00,0,1,2
+Wolverhampton,Newcastle,2024-09-15 15:30:00,1,2,2
+West Ham,Chelsea,2024-09-21 11:30:00,0,3,2
+Aston Villa,Wolverhampton,2024-09-21 14:00:00,3,1,1
+Fulham,Newcastle,2024-09-21 14:00:00,3,1,1
+Leicester City,Everton,2024-09-21 14:00:00,1,1,0
+Liverpool,Bournemouth,2024-09-21 14:00:00,3,0,1
+Southampton,Ipswich Town,2024-09-21 14:00:00,1,1,0
+Tottenham,Brentford,2024-09-21 14:00:00,3,1,1
+Crystal Palace,Man United,2024-09-21 16:30:00,0,0,0
+Brighton Hove,Nottingham,2024-09-22 13:00:00,2,2,0
+Man City,Arsenal,2024-09-22 15:30:00,2,2,0
+Newcastle,Man City,2024-09-28 11:30:00,1,1,0
+Arsenal,Leicester City,2024-09-28 14:00:00,4,2,1
+Brentford,West Ham,2024-09-28 14:00:00,1,1,0
+Chelsea,Brighton Hove,2024-09-28 14:00:00,4,2,1
+Everton,Crystal Palace,2024-09-28 14:00:00,2,1,1
+Nottingham,Fulham,2024-09-28 14:00:00,0,1,2
+Wolverhampton,Liverpool,2024-09-28 16:30:00,1,2,2
+Ipswich Town,Aston Villa,2024-09-29 13:00:00,2,2,0
+Man United,Tottenham,2024-09-29 15:30:00,0,3,2
+Bournemouth,Southampton,2024-09-30 19:00:00,3,1,1
+Crystal Palace,Liverpool,2024-10-05 11:30:00,0,1,2
+Arsenal,Southampton,2024-10-05 14:00:00,3,1,1
+Brentford,Wolverhampton,2024-10-05 14:00:00,5,3,1
+Leicester City,Bournemouth,2024-10-05 14:00:00,1,0,1
+Man City,Fulham,2024-10-05 14:00:00,3,2,1
+West Ham,Ipswich Town,2024-10-05 14:00:00,4,1,1
+Everton,Newcastle,2024-10-05 16:30:00,0,0,0
+Aston Villa,Man United,2024-10-06 13:00:00,0,0,0
+Chelsea,Nottingham,2024-10-06 13:00:00,1,1,0
+Brighton Hove,Tottenham,2024-10-06 15:30:00,3,2,1
+Tottenham,West Ham,2024-10-19 11:30:00,4,1,1
+Fulham,Aston Villa,2024-10-19 14:00:00,1,3,2
+Ipswich Town,Everton,2024-10-19 14:00:00,0,2,2
+Man United,Brentford,2024-10-19 14:00:00,2,1,1
+Newcastle,Brighton Hove,2024-10-19 14:00:00,0,1,2
+Southampton,Leicester City,2024-10-19 14:00:00,2,3,2
+Bournemouth,Arsenal,2024-10-19 16:30:00,2,0,1
+Wolverhampton,Man City,2024-10-20 13:00:00,1,2,2
+Liverpool,Chelsea,2024-10-20 15:30:00,2,1,1
+Nottingham,Crystal Palace,2024-10-21 19:00:00,1,0,1
+Leicester City,Nottingham,2024-10-25 19:00:00,1,3,2
+Aston Villa,Bournemouth,2024-10-26 14:00:00,1,1,0
+Brentford,Ipswich Town,2024-10-26 14:00:00,4,3,1
+Brighton Hove,Wolverhampton,2024-10-26 14:00:00,2,2,0
+Man City,Southampton,2024-10-26 14:00:00,1,0,1
+Everton,Fulham,2024-10-26 16:30:00,1,1,0
+Chelsea,Newcastle,2024-10-27 14:00:00,2,1,1
+Crystal Palace,Tottenham,2024-10-27 14:00:00,1,0,1
+West Ham,Man United,2024-10-27 14:00:00,2,1,1
+Arsenal,Liverpool,2024-10-27 16:30:00,2,2,0
+Newcastle,Arsenal,2024-11-02 12:30:00,1,0,1
+Bournemouth,Man City,2024-11-02 15:00:00,2,1,1
+Ipswich Town,Leicester City,2024-11-02 15:00:00,1,1,0
+Liverpool,Brighton Hove,2024-11-02 15:00:00,2,1,1
+Nottingham,West Ham,2024-11-02 15:00:00,3,0,1
+Southampton,Everton,2024-11-02 15:00:00,1,0,1
+Wolverhampton,Crystal Palace,2024-11-02 17:30:00,2,2,0
+Tottenham,Aston Villa,2024-11-03 14:00:00,4,1,1
+Man United,Chelsea,2024-11-03 16:30:00,1,1,0
+Fulham,Brentford,2024-11-04 20:00:00,2,1,1
+Brentford,Bournemouth,2024-11-09 15:00:00,3,2,1
+Crystal Palace,Fulham,2024-11-09 15:00:00,0,2,2
+West Ham,Everton,2024-11-09 15:00:00,0,0,0
+Wolverhampton,Southampton,2024-11-09 15:00:00,2,0,1
+Brighton Hove,Man City,2024-11-09 17:30:00,2,1,1
+Liverpool,Aston Villa,2024-11-09 20:00:00,2,0,1
+Man United,Leicester City,2024-11-10 14:00:00,3,0,1
+Nottingham,Newcastle,2024-11-10 14:00:00,1,3,2
+Tottenham,Ipswich Town,2024-11-10 14:00:00,1,2,2
+Chelsea,Arsenal,2024-11-10 16:30:00,1,1,0
+Leicester City,Chelsea,2024-11-23 12:30:00,1,2,2
+Bournemouth,Brighton Hove,2024-11-23 15:00:00,1,2,2
+Arsenal,Nottingham,2024-11-23 15:00:00,3,0,1
+Aston Villa,Crystal Palace,2024-11-23 15:00:00,2,2,0
+Everton,Brentford,2024-11-23 15:00:00,0,0,0
+Fulham,Wolverhampton,2024-11-23 15:00:00,1,4,2
+Man City,Tottenham,2024-11-23 17:30:00,0,4,2
+Southampton,Liverpool,2024-11-24 14:00:00,2,3,2
+Ipswich Town,Man United,2024-11-24 16:30:00,1,1,0
+Newcastle,West Ham,2024-11-25 20:00:00,0,2,2
+Brighton Hove,Southampton,2024-11-29 20:00:00,1,1,0
+Brentford,Leicester City,2024-11-30 15:00:00,4,1,1
+Crystal Palace,Newcastle,2024-11-30 15:00:00,1,1,0
+Nottingham,Ipswich Town,2024-11-30 15:00:00,1,0,1
+Wolverhampton,Bournemouth,2024-11-30 15:00:00,2,4,2
+West Ham,Arsenal,2024-11-30 17:30:00,2,5,2
+Chelsea,Aston Villa,2024-12-01 13:30:00,3,0,1
+Man United,Everton,2024-12-01 13:30:00,4,0,1
+Tottenham,Fulham,2024-12-01 13:30:00,1,1,0
+Liverpool,Man City,2024-12-01 16:00:00,2,0,1
+Ipswich Town,Crystal Palace,2024-12-03 19:30:00,0,1,2
+Leicester City,West Ham,2024-12-03 20:15:00,3,1,1
+Everton,Wolverhampton,2024-12-04 19:30:00,4,0,1
+Man City,Nottingham,2024-12-04 19:30:00,3,0,1
+Newcastle,Liverpool,2024-12-04 19:30:00,3,3,0
+Southampton,Chelsea,2024-12-04 19:30:00,1,5,2
+Arsenal,Man United,2024-12-04 20:15:00,2,0,1
+Aston Villa,Brentford,2024-12-04 20:15:00,3,1,1
+Fulham,Brighton Hove,2024-12-05 19:30:00,3,1,1
+Bournemouth,Tottenham,2024-12-05 20:15:00,1,0,1
+Aston Villa,Southampton,2024-12-07 15:00:00,1,0,1
+Brentford,Newcastle,2024-12-07 15:00:00,4,2,1
+Crystal Palace,Man City,2024-12-07 15:00:00,2,2,0
+Man United,Nottingham,2024-12-07 17:30:00,2,3,2
+Fulham,Arsenal,2024-12-08 14:00:00,1,1,0
+Ipswich Town,Bournemouth,2024-12-08 14:00:00,1,2,2
+Leicester City,Brighton Hove,2024-12-08 14:00:00,2,2,0
+Tottenham,Chelsea,2024-12-08 16:30:00,3,4,2
+West Ham,Wolverhampton,2024-12-09 20:00:00,2,1,1
+Arsenal,Everton,2024-12-14 15:00:00,0,0,0
+Liverpool,Fulham,2024-12-14 15:00:00,2,2,0
+Newcastle,Leicester City,2024-12-14 15:00:00,4,0,1
+Wolverhampton,Ipswich Town,2024-12-14 15:00:00,1,2,2
+Nottingham,Aston Villa,2024-12-14 17:30:00,2,1,1
+Brighton Hove,Crystal Palace,2024-12-15 14:00:00,1,3,2
+Man City,Man United,2024-12-15 16:30:00,1,2,2
+Chelsea,Brentford,2024-12-15 19:00:00,2,1,1
+Southampton,Tottenham,2024-12-15 19:00:00,0,5,2
+Bournemouth,West Ham,2024-12-16 20:00:00,1,1,0
+Aston Villa,Man City,2024-12-21 12:30:00,2,1,1
+Brentford,Nottingham,2024-12-21 15:00:00,0,2,2
+Ipswich Town,Newcastle,2024-12-21 15:00:00,0,4,2
+West Ham,Brighton Hove,2024-12-21 15:00:00,1,1,0
+Crystal Palace,Arsenal,2024-12-21 17:30:00,1,5,2
+Everton,Chelsea,2024-12-22 14:00:00,0,0,0
+Fulham,Southampton,2024-12-22 14:00:00,0,0,0
+Leicester City,Wolverhampton,2024-12-22 14:00:00,0,3,2
+Man United,Bournemouth,2024-12-22 14:00:00,0,3,2
+Tottenham,Liverpool,2024-12-22 16:30:00,3,6,2
+Man City,Everton,2024-12-26 12:30:00,1,1,0
+Bournemouth,Crystal Palace,2024-12-26 15:00:00,0,0,0
+Chelsea,Fulham,2024-12-26 15:00:00,1,2,2
+Newcastle,Aston Villa,2024-12-26 15:00:00,3,0,1
+Nottingham,Tottenham,2024-12-26 15:00:00,1,0,1
+Southampton,West Ham,2024-12-26 15:00:00,0,1,2
+Wolverhampton,Man United,2024-12-26 17:30:00,2,0,1
+Liverpool,Leicester City,2024-12-26 20:00:00,3,1,1
+Brighton Hove,Brentford,2024-12-27 19:30:00,0,0,0
+Arsenal,Ipswich Town,2024-12-27 20:15:00,1,0,1
+Leicester City,Man City,2024-12-29 14:30:00,0,2,2
+Crystal Palace,Southampton,2024-12-29 15:00:00,2,1,1
+Everton,Nottingham,2024-12-29 15:00:00,0,2,2
+Fulham,Bournemouth,2024-12-29 15:00:00,2,2,0
+Tottenham,Wolverhampton,2024-12-29 15:00:00,2,2,0
+West Ham,Liverpool,2024-12-29 17:15:00,0,5,2
+Aston Villa,Brighton Hove,2024-12-30 19:45:00,2,2,0
+Ipswich Town,Chelsea,2024-12-30 19:45:00,2,0,1
+Man United,Newcastle,2024-12-30 20:00:00,0,2,2
+Brentford,Arsenal,2025-01-01 17:30:00,1,3,2
+Tottenham,Newcastle,2025-01-04 12:30:00,1,2,2
+Southampton,Brentford,2025-01-04 15:00:00,0,5,2
+Crystal Palace,Chelsea,2025-01-04 15:00:00,1,1,0
+Bournemouth,Everton,2025-01-04 15:00:00,1,0,1
+Aston Villa,Leicester City,2025-01-04 15:00:00,2,1,1
+Man City,West Ham,2025-01-04 15:00:00,4,1,1
+Brighton Hove,Arsenal,2025-01-04 17:30:00,1,1,0
+Fulham,Ipswich Town,2025-01-05 14:00:00,2,2,0
+Liverpool,Man United,2025-01-05 16:30:00,2,2,0
+Wolverhampton,Nottingham,2025-01-06 20:00:00,0,3,2
+West Ham,Fulham,2025-01-14 19:30:00,3,2,1
+Brentford,Man City,2025-01-14 19:30:00,2,2,0
+Chelsea,Bournemouth,2025-01-14 19:30:00,2,2,0
+Nottingham,Liverpool,2025-01-14 20:00:00,1,1,0
+Everton,Aston Villa,2025-01-15 19:30:00,0,1,2
+Leicester City,Crystal Palace,2025-01-15 19:30:00,0,2,2
+Newcastle,Wolverhampton,2025-01-15 19:30:00,3,0,1
+Arsenal,Tottenham,2025-01-15 20:00:00,2,1,1
+Ipswich Town,Brighton Hove,2025-01-16 19:30:00,0,2,2
+Man United,Southampton,2025-01-16 20:00:00,3,1,1
+Newcastle,Bournemouth,2025-01-18 12:30:00,1,4,2
+West Ham,Crystal Palace,2025-01-18 15:00:00,0,2,2
+Leicester City,Fulham,2025-01-18 15:00:00,0,2,2
+Brentford,Liverpool,2025-01-18 15:00:00,0,2,2
+Arsenal,Aston Villa,2025-01-18 17:30:00,2,2,0
+Man United,Brighton Hove,2025-01-19 14:00:00,1,3,2
+Nottingham,Southampton,2025-01-19 14:00:00,3,2,1
+Everton,Tottenham,2025-01-19 14:00:00,3,2,1
+Ipswich Town,Man City,2025-01-19 16:30:00,0,6,2
+Chelsea,Wolverhampton,2025-01-20 20:00:00,3,1,1
+Liverpool,Ipswich Town,2025-01-25 15:00:00,4,1,1
+Wolverhampton,Arsenal,2025-01-25 15:00:00,0,1,2
+Brighton Hove,Everton,2025-01-25 15:00:00,0,1,2
+Southampton,Newcastle,2025-01-25 15:00:00,1,3,2
+Bournemouth,Nottingham,2025-01-25 15:00:00,5,0,1
+Man City,Chelsea,2025-01-25 17:30:00,3,1,1
+Crystal Palace,Brentford,2025-01-26 14:00:00,1,2,2
+Tottenham,Leicester City,2025-01-26 14:00:00,1,2,2
+Aston Villa,West Ham,2025-01-26 16:30:00,1,1,0
+Fulham,Man United,2025-01-26 19:00:00,0,1,2
+Nottingham,Brighton Hove,2025-02-01 12:30:00,7,0,1
+Newcastle,Fulham,2025-02-01 15:00:00,1,2,2
+Everton,Leicester City,2025-02-01 15:00:00,4,0,1
+Bournemouth,Liverpool,2025-02-01 15:00:00,0,2,2
+Ipswich Town,Southampton,2025-02-01 15:00:00,1,2,2
+Wolverhampton,Aston Villa,2025-02-01 17:30:00,2,0,1
+Man United,Crystal Palace,2025-02-02 14:00:00,0,2,2
+Brentford,Tottenham,2025-02-02 14:00:00,0,2,2
+Arsenal,Man City,2025-02-02 16:30:00,5,1,1
+Chelsea,West Ham,2025-02-03 20:00:00,2,1,1
+Everton,Liverpool,2025-02-12 19:30:00,2,2,0
+Brighton Hove,Chelsea,2025-02-14 20:00:00,3,0,1
+Leicester City,Arsenal,2025-02-15 12:30:00,0,2,2
+Southampton,Bournemouth,2025-02-15 15:00:00,1,3,2
+West Ham,Brentford,2025-02-15 15:00:00,0,1,2
+Aston Villa,Ipswich Town,2025-02-15 15:00:00,1,1,0
+Man City,Newcastle,2025-02-15 15:00:00,4,0,1
+Fulham,Nottingham,2025-02-15 15:00:00,2,1,1
+Crystal Palace,Everton,2025-02-15 17:30:00,1,2,2
+Liverpool,Wolverhampton,2025-02-16 14:00:00,2,1,1
+Tottenham,Man United,2025-02-16 16:30:00,1,0,1
+Aston Villa,Liverpool,2025-02-19 19:30:00,2,2,0
+Leicester City,Brentford,2025-02-21 20:00:00,0,4,2
+Everton,Man United,2025-02-22 12:30:00,2,2,0
+Ipswich Town,Tottenham,2025-02-22 15:00:00,1,4,2
+Fulham,Crystal Palace,2025-02-22 15:00:00,0,2,2
+Arsenal,West Ham,2025-02-22 15:00:00,0,1,2
+Bournemouth,Wolverhampton,2025-02-22 15:00:00,0,1,2
+Southampton,Brighton Hove,2025-02-22 15:00:00,0,4,2
+Aston Villa,Chelsea,2025-02-22 17:30:00,2,1,1
+Newcastle,Nottingham,2025-02-23 14:00:00,4,3,1
+Man City,Liverpool,2025-02-23 16:30:00,0,2,2
+Brighton Hove,Bournemouth,2025-02-25 19:30:00,2,1,1
+Crystal Palace,Aston Villa,2025-02-25 19:30:00,4,1,1
+Wolverhampton,Fulham,2025-02-25 19:30:00,1,2,2
+Chelsea,Southampton,2025-02-25 20:15:00,4,0,1
+Nottingham,Arsenal,2025-02-26 19:30:00,0,0,0
+Brentford,Everton,2025-02-26 19:30:00,1,1,0
+Tottenham,Man City,2025-02-26 19:30:00,0,1,2
+Man United,Ipswich Town,2025-02-26 19:30:00,3,2,1
+Liverpool,Newcastle,2025-02-26 20:15:00,2,0,1
+West Ham,Leicester City,2025-02-27 20:00:00,2,0,1
+Nottingham,Man City,2025-03-08 12:30:00,1,0,1
+Brighton Hove,Fulham,2025-03-08 15:00:00,2,1,1
+Crystal Palace,Ipswich Town,2025-03-08 15:00:00,1,0,1
+Liverpool,Southampton,2025-03-08 15:00:00,3,1,1
+Brentford,Aston Villa,2025-03-08 17:30:00,0,1,2
+Wolverhampton,Everton,2025-03-08 20:00:00,1,1,0
+Tottenham,Bournemouth,2025-03-09 14:00:00,2,2,0
+Chelsea,Leicester City,2025-03-09 14:00:00,1,0,1
+Man United,Arsenal,2025-03-09 16:30:00,1,1,0
+West Ham,Newcastle,2025-03-10 20:00:00,0,1,2
+Everton,West Ham,2025-03-15 15:00:00,1,1,0
+Ipswich Town,Nottingham,2025-03-15 15:00:00,2,4,2
+Man City,Brighton Hove,2025-03-15 15:00:00,2,2,0
+Southampton,Wolverhampton,2025-03-15 15:00:00,1,2,2
+Bournemouth,Brentford,2025-03-15 17:30:00,1,2,2
+Arsenal,Chelsea,2025-03-16 13:30:00,1,0,1
+Fulham,Tottenham,2025-03-16 13:30:00,2,0,1
+Leicester City,Man United,2025-03-16 19:00:00,0,3,2
+Arsenal,Fulham,2025-04-01 18:45:00,2,1,1
+Wolverhampton,West Ham,2025-04-01 18:45:00,1,0,1
+Nottingham,Man United,2025-04-01 19:00:00,1,0,1
+Bournemouth,Ipswich Town,2025-04-02 18:45:00,1,2,2
+Brighton Hove,Aston Villa,2025-04-02 18:45:00,0,3,2
+Man City,Leicester City,2025-04-02 18:45:00,2,0,1
+Newcastle,Brentford,2025-04-02 18:45:00,2,1,1
+Southampton,Crystal Palace,2025-04-02 18:45:00,1,1,0
+Liverpool,Everton,2025-04-02 19:00:00,1,0,1
+Chelsea,Tottenham,2025-04-03 19:00:00,1,0,1
+Everton,Arsenal,2025-04-05 11:30:00,1,1,0
+Crystal Palace,Brighton Hove,2025-04-05 14:00:00,2,1,1
+Ipswich Town,Wolverhampton,2025-04-05 14:00:00,1,2,2
+West Ham,Bournemouth,2025-04-05 14:00:00,2,2,0
+Aston Villa,Nottingham,2025-04-05 16:30:00,2,1,1
+Brentford,Chelsea,2025-04-06 13:00:00,0,0,0
+Fulham,Liverpool,2025-04-06 13:00:00,3,2,1
+Tottenham,Southampton,2025-04-06 13:00:00,3,1,1
+Man United,Man City,2025-04-06 15:30:00,0,0,0
+Leicester City,Newcastle,2025-04-07 19:00:00,0,3,2
+Man City,Crystal Palace,2025-04-12 11:30:00,5,2,1
+Brighton Hove,Leicester City,2025-04-12 14:00:00,2,2,0
+Nottingham,Everton,2025-04-12 14:00:00,0,1,2
+Southampton,Aston Villa,2025-04-12 14:00:00,0,3,2
+Arsenal,Brentford,2025-04-12 16:30:00,1,1,0
+Chelsea,Ipswich Town,2025-04-13 13:00:00,2,2,0
+Liverpool,West Ham,2025-04-13 13:00:00,2,1,1
+Wolverhampton,Tottenham,2025-04-13 13:00:00,4,2,1
+Newcastle,Man United,2025-04-13 15:30:00,4,1,1
+Bournemouth,Fulham,2025-04-14 19:00:00,1,0,1
+Newcastle,Crystal Palace,2025-04-16 18:30:00,5,0,1
+Brentford,Brighton Hove,2025-04-19 14:00:00,4,2,1
+Crystal Palace,Bournemouth,2025-04-19 14:00:00,0,0,0
+Everton,Man City,2025-04-19 14:00:00,0,2,2
+West Ham,Southampton,2025-04-19 14:00:00,1,1,0
+Aston Villa,Newcastle,2025-04-19 16:30:00,4,1,1
+Fulham,Chelsea,2025-04-20 13:00:00,1,2,2
+Ipswich Town,Arsenal,2025-04-20 13:00:00,0,4,2
+Man United,Wolverhampton,2025-04-20 13:00:00,0,1,2
+Leicester City,Liverpool,2025-04-20 15:30:00,0,1,2
+Tottenham,Nottingham,2025-04-21 19:00:00,1,2,2
+Man City,Aston Villa,2025-04-22 19:00:00,2,1,1
+Arsenal,Crystal Palace,2025-04-23 19:00:00,2,2,0
+Chelsea,Everton,2025-04-26 11:30:00,1,0,1
+Brighton Hove,West Ham,2025-04-26 14:00:00,3,2,1
+Newcastle,Ipswich Town,2025-04-26 14:00:00,3,0,1
+Southampton,Fulham,2025-04-26 14:00:00,1,2,2
+Wolverhampton,Leicester City,2025-04-26 14:00:00,3,0,1
+Bournemouth,Man United,2025-04-27 13:00:00,1,1,0
+Liverpool,Tottenham,2025-04-27 15:30:00,5,1,1
+Nottingham,Brentford,2025-05-01 18:30:00,0,2,2
+Man City,Wolverhampton,2025-05-02 19:00:00,1,0,1
+Aston Villa,Fulham,2025-05-03 11:30:00,1,0,1
+Everton,Ipswich Town,2025-05-03 14:00:00,2,2,0
+Leicester City,Southampton,2025-05-03 14:00:00,2,0,1
+Arsenal,Bournemouth,2025-05-03 16:30:00,1,2,2
+Brentford,Man United,2025-05-04 13:00:00,4,3,1
+Brighton Hove,Newcastle,2025-05-04 13:00:00,1,1,0
+West Ham,Tottenham,2025-05-04 13:00:00,1,1,0
+Chelsea,Liverpool,2025-05-04 15:30:00,3,1,1
+Crystal Palace,Nottingham,2025-05-05 19:00:00,1,1,0
+Fulham,Everton,2025-05-10 14:00:00,1,3,2
+Ipswich Town,Brentford,2025-05-10 14:00:00,0,1,2
+Southampton,Man City,2025-05-10 14:00:00,0,0,0
+Wolverhampton,Brighton Hove,2025-05-10 14:00:00,0,2,2
+Bournemouth,Aston Villa,2025-05-10 16:30:00,0,1,2
+Newcastle,Chelsea,2025-05-11 11:00:00,2,0,1
+Man United,West Ham,2025-05-11 13:15:00,0,2,2
+Nottingham,Leicester City,2025-05-11 13:15:00,2,2,0
+Tottenham,Crystal Palace,2025-05-11 13:15:00,0,2,2
+Liverpool,Arsenal,2025-05-11 15:30:00,2,2,0
+Aston Villa,Tottenham,2025-05-16 18:30:00,2,0,1
+Chelsea,Man United,2025-05-16 19:15:00,1,0,1
+Everton,Southampton,2025-05-18 11:00:00,2,0,1
+West Ham,Nottingham,2025-05-18 13:15:00,1,2,2
+Brentford,Fulham,2025-05-18 14:00:00,2,3,2
+Leicester City,Ipswich Town,2025-05-18 14:00:00,2,0,1
+Arsenal,Newcastle,2025-05-18 15:30:00,1,0,1
+Brighton Hove,Liverpool,2025-05-19 19:00:00,3,2,1
+Crystal Palace,Wolverhampton,2025-05-20 19:00:00,4,2,1
+Man City,Bournemouth,2025-05-20 19:00:00,3,1,1
+Bournemouth,Leicester City,2025-05-25 15:00:00,2,0,1
+Fulham,Man City,2025-05-25 15:00:00,0,2,2
+Ipswich Town,West Ham,2025-05-25 15:00:00,1,3,2
+Liverpool,Crystal Palace,2025-05-25 15:00:00,1,1,0
+Man United,Aston Villa,2025-05-25 15:00:00,2,0,1
+Newcastle,Everton,2025-05-25 15:00:00,0,1,2
+Nottingham,Chelsea,2025-05-25 15:00:00,0,1,2
+Southampton,Arsenal,2025-05-25 15:00:00,1,2,2
+Tottenham,Brighton Hove,2025-05-25 15:00:00,1,4,2
+Wolverhampton,Brentford,2025-05-25 15:00:00,1,1,0
