@@ -32,4 +32,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# python predict_match.py --home_team 13 --away_team 8 --weekday 5 --month 8
