@@ -17,7 +17,7 @@
 
 ### Running prediction
 
-- `python predict_match.py --home_team 13 --away_team 8 --weekday 5 --month 8`
+- `python predict_match.py --home_team "Arsenal" --away_team "Wolverhampton" --date 2025-09-09T23:00`
 
 Result should be something like:
 ```

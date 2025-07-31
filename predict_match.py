@@ -1,13 +1,14 @@
 import argparse
 import pandas as pd
 from joblib import load
+from datetime import datetime
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Predicts match outcomes.")
     parser.add_argument("--home_team", type=str, required=True)
     parser.add_argument("--away_team", type=str, required=True)
-    parser.add_argument("--weekday", type=int, required=True)
-    parser.add_argument("--month", type=int, required=True)
+    parser.add_argument("--date", type=str, required=True, help="Date of the match (YYYY-MM-DDTHH:MM)")
+
     return parser.parse_args()
 
 def main():
@@ -19,12 +20,14 @@ def main():
     home_team_id = home_encoder.transform([args.home_team])[0]
     away_team_id = away_encoder.transform([args.away_team])[0]
 
+    match_date = datetime.fromisoformat(args.date)
+
     input_data = pd.DataFrame([{
         "home_team": home_team_id,
         "away_team": away_team_id,
-        "weekday": args.weekday,
-        "month": args.month,
-        "is_weekend": int(args.weekday in [5, 6])
+        "weekday": match_date.weekday(),
+        "month": match_date.month,
+        "is_weekend": int(match_date.weekday() in [5, 6])
     }])
 
     model = load("model/model.joblib")
