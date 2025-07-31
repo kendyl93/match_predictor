@@ -21,6 +21,8 @@ def extract_date_features(df: pd.DataFrame) -> pd.DataFrame:
     df['date'] = pd.to_datetime(df['date'])
     df['weekday'] = df['date'].dt.weekday
     df['month'] = df['date'].dt.month
+    df['year'] = df['date'].dt.year
+    
     return df.drop(columns=['date'])
 
 def add_simple_features(df: pd.DataFrame) -> pd.DataFrame:

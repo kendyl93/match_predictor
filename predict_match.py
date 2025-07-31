@@ -27,6 +27,7 @@ def main():
         "away_team": away_team_id,
         "weekday": match_date.weekday(),
         "month": match_date.month,
+        "year": match_date.year,
         "is_weekend": int(match_date.weekday() in [5, 6])
     }])
 

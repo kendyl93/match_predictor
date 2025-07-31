@@ -8,7 +8,7 @@ def load_data(path: str) -> pd.DataFrame:
     return pd.read_csv(path)
 
 def select_features(df: pd.DataFrame):
-    X = df[["home_team", "away_team", "weekday", "month", "is_weekend"]] 
+    X = df[["home_team", "away_team", "weekday", "month", "year", "is_weekend"]] 
     y = df["winner"]
     return X, y
 
@@ -26,7 +26,7 @@ def save_model(model, path: str):
     print(f"Model saved to {path}")
 
 def main():
-    df = load_data("matches_2024_processed.csv")
+    df = load_data("all_processed.csv")
     X, y = select_features(df)
     model = train_and_evaluate(X, y)
     save_model(model, "model/model.joblib")
