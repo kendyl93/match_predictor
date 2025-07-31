@@ -17,7 +17,9 @@ def main():
         "home_team": args.home_team,
         "away_team": args.away_team,
         "weekday": args.weekday,
-        "month": args.month
+        "month": args.month,
+        "goal_diff": 0,
+        "is_weekend": int(args.weekday in [5, 6])
     }])
 
     model = load("model/model.joblib")
