@@ -8,7 +8,7 @@ def load_data(path: str) -> pd.DataFrame:
     return pd.read_csv(path)
 
 def select_features(df: pd.DataFrame):
-    X = df[["home_team", "away_team", "weekday", "month", "goal_diff", "is_weekend"]] 
+    X = df[["home_team", "away_team", "weekday", "month", "is_weekend"]] 
     y = df["winner"]
     return X, y
 
